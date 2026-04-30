@@ -19,5 +19,4 @@ This is still WORK IN PROGRESS currently working on can be found at the bottom
 Suggestion: Set Progression blancing to extreme in the .yaml as theres like 1 check before your BK'ed at the start
 
 Working on:
-More Items: Mostly the different gears maybe infusions
-More Checks/Locations: The Different Voxiphones and maybe the different gear locations   
+Actual Yaml Options: The choice to turn a few of the different types of checks on and off like voxiphones
