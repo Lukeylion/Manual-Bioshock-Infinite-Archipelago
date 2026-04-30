@@ -1,5 +1,6 @@
 # Manual-Bioshock-Infinite-Archipelago
 A Bioshock Infinite archipelago thats manual so no mod
+(Go to the actual readme file then code to have it in proper formating)
 How to set-up
 1. Download the archipelago launcher https://github.com/ArchipelagoMW/Archipelago/releases/tag/0.6.7 (you may also need https://github.com/ManualForArchipelago/Manual/releases)
 2. Download the latest release of the Bioshock Infinite manual apworld
