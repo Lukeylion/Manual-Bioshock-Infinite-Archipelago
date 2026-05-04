@@ -16,7 +16,6 @@ NOTE: This is a manual so you have to select when you get checks.
 When you get a vigor in game you arent allowed to use it until you unlock it in the archipelago
 This is still WORK IN PROGRESS currently working on can be found at the bottom
 
-Suggestion: Set Progression blancing to extreme in the .yaml as theres like 1 check before your BK'ed at the start
 
 Working on:
 Actual Yaml Options: The choice to turn a few of the different types of checks on and off like voxiphones
